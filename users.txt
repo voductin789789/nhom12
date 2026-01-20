@@ -1,0 +1,5 @@
+1|admin|admin123|admin@cooking.com|Admin|2024-01-01|1
+2|voductin789|voductin789|voductin@gmail.com|Member|2024-02-15|1
+3|tranbibi|bibi456|bibi@yahoo.com|Member|2024-03-10|1
+4|lethid|d_le789|d_le@hotmail.com|Member|2024-04-05|0
+5|phamvanem|em999|em_pham@gmail.com|Member|2024-05-12|1

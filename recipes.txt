@@ -1,0 +1,5 @@
+0|Ga Kho Sa Ot|Mon chinh|Ga, sa, ot, gia vi|B1: Uop ga. B2: Phi thom sa. B3: Kho ga|30|De|150|4.5|2
+2|Che Khuc Bach|Mon trang mieng|Sua tuoi, kem tuoi, thach|B1: Nau thach. B2: Pha nuoc duong. B3: Mix do|60|Trung binh|200|4.8|3
+3|Dau Phu Sot Ca Chua|Mon chay|Dau phu, ca chua, hanh la|B1: Ran dau. B2: Lam sot ca. B3: Rim dau|20|De|80|4.2|2
+4|Sushi Ca Hoi|Mon A|Gao Nhat, ca hoi tươi, rong bien|B1: Nau com. B2: Thai ca. B3: Cuon sushi|45|Kho|350|5|4
+5|Mi Y Spaghetti|Mon Au|Mi Y, thit bo bam, sot ca chua|B1: Luoc mi. B2: Lam sot thit bo. B3: Tron mi|25|Trung binh|120|4.6|4

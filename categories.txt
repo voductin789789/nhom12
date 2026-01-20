@@ -1,0 +1,7 @@
+1|Mon chinh
+2|Mon trang mieng
+3|Mon chay
+4|Mon A
+5|Mon Au
+6|Mon khai vi
+7|Do uong
