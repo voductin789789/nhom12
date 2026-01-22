@@ -32,7 +32,7 @@ int main() {
     // 3. Khai báo danh sách dữ liệu trong bộ nhớ
     vector<AccountEntity> accounts;
     vector<RecipeEntity> recipes;
-    vector<CommentEntity> comments;
+    //vector<CommentEntity> comments;
     vector<RatingEntity> ratings;
 
     // 4. Nạp dữ liệu ban đầu
